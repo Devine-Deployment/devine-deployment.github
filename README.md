@@ -1,5 +1,7 @@
 # Welcome to Devine Deployment playground
+[Click to view the Team Website](https://devine-deployment.github.io)
 
+## Assignment
 1. Create an html file with your firstname. Examples richard.html, frank.html, jeff.html, aluba.html, derrick.html
 2. Add the following code to your new html page
 ```
