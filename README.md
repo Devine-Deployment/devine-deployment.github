@@ -1,4 +1,4 @@
-# playground.github
+# Welcome to Devine Deployment playground
 
 1. Create an html file with your firstname. Examples richard.html, frank.html, jeff.html, aluba.html, derrick.html
 2. Add the following code to your new html page
